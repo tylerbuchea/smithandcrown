@@ -10,6 +10,8 @@ export default class Nav extends React.PureComponent {
               alt="logo"
               src="/favicon.png"
             />
+            &nbsp;
+            Smith + Crown
           </a>
         </div>
       </nav>
