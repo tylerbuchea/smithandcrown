@@ -25,7 +25,6 @@ export default class Home extends React.PureComponent {
   )
 
   render() {
-    console.log(this.props.repos);
     return (
       <div>
         <Nav />
