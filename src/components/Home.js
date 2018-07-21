@@ -30,7 +30,7 @@ export default class Home extends React.PureComponent {
         <Nav />
         <div className="section">
           <div className="container">
-            <h1 className="title">
+            <h1 className="title has-text-centered">
               Repositories{' '}
               {this.props.repos.state.loading && <div className="fas fa-spinner fa-spin" />}
             </h1>
