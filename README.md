@@ -20,3 +20,10 @@ brew install yarn # yarn is required
 ```bash
 ./ops test
 ```
+
+## Deploy
+
+```bash
+# You will need access to admin surge account to deploy
+./ops ship
+```
