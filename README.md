@@ -1,4 +1,4 @@
-# OpenSea
+# Smith + Crown
 
 ## Setup
 
