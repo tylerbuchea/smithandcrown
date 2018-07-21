@@ -30,6 +30,6 @@ elif [ $script == "test" ] ; then
 
 elif [ $script == "ship" ] ; then
   yarn build
-  surge -d smithandcrown.surge.sh -p ./dist
+  surge -d smithandcrown.surge.sh -p ./build
 
 fi
