@@ -1,0 +1,52 @@
+{
+  "name": "smithandcrown",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=10.3.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "eject": "react-app-rewired eject",
+    "test": "react-app-rewired test",
+    "precommit": "lint-staged"
+  },
+  "dependencies": {
+    "await-to-js": "^2.0.1",
+    "bulma": "^0.7.1",
+    "color": "^3.0.0",
+    "headersfactory": "^1.0.3",
+    "idx": "^2.4.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "qs": "^6.5.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-flip-move": "^3.0.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "fetch-mock": "^6.5.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.2.0",
+    "prettier": "^1.13.7",
+    "react-app-rewire-mobx": "^1.0.8",
+    "react-app-rewired": "^1.5.2",
+    "react-test-renderer": "^16.4.1",
+    "redux-mock-store": "^1.5.3"
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": [
+      "prettier --write --single-quote --trailing-comma es5",
+      "git add"
+    ]
+  }
+}

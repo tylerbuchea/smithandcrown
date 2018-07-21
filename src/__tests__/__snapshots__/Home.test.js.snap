@@ -1,0 +1,633 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly with snapshot 1`] = `
+<div>
+  <nav
+    className="navbar has-shadow is-spaced"
+  >
+    <div
+      className="navbar-brand"
+    >
+      <a
+        className="navbar-item"
+        href="https://smithandcrown.com/"
+      >
+        <img
+          alt="logo"
+          src="/favicon.png"
+        />
+      </a>
+    </div>
+  </nav>
+  <div
+    className="section"
+  >
+    <div
+      className="container"
+    >
+      <h1
+        className="title"
+      >
+        Repositories
+         
+        <div
+          className="fas fa-spinner fa-spin"
+        />
+      </h1>
+      <div
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexWrap": "wrap",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars2.githubusercontent.com/u/528860?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      bitcoin
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      C++
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  Bitcoin Core integration/staging tree
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href="https://bitcoin.org/en/download"
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  805
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  20150
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars3.githubusercontent.com/u/6250754?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      go-ethereum
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      Go
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  Official Go implementation of the Ethereum protocol
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href="https://geth.ethereum.org"
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  881
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  6450
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars2.githubusercontent.com/u/3165523?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      rippled
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      C++
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href="https://ripple.com/xrp"
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  170
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  853
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars0.githubusercontent.com/u/28255313?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      bitcoin-abc
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      C++
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  This a mirror of the official Bitcoin-ABC repository.  Please see README.md
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href="https://reviews.bitcoinabc.org"
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  23
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  329
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars2.githubusercontent.com/u/26932212?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      eos
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      WebAssembly
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  An open source smart contract platform 
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href="https://github.com/EOSIO/eos"
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  494
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  2390
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "flex": "0 0 auto",
+              "margin": 10,
+              "maxWidth": 254,
+            }
+          }
+        >
+          <div
+            className=""
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-content"
+              >
+                <div
+                  className="media"
+                >
+                  <div
+                    className="media-left"
+                  >
+                    <figure
+                      className="image is-48x48"
+                    >
+                      <img
+                        alt="company"
+                        src="https://avatars3.githubusercontent.com/u/7386716?v=4"
+                        style={
+                          Object {
+                            "width": 100,
+                          }
+                        }
+                      />
+                    </figure>
+                  </div>
+                  <div
+                    className="media-content"
+                  >
+                    <p
+                      className="title is-4"
+                    >
+                      stellar-core
+                    </p>
+                    <p
+                      className="subtitle is-6"
+                    >
+                      C
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className="content"
+                >
+                  stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.
+                </div>
+                <a
+                  className="button has-background-info has-text-white"
+                  href=""
+                  style={
+                    Object {
+                      "display": "block",
+                      "margin": "auto",
+                    }
+                  }
+                  target="_blank"
+                >
+                  Homepage
+                </a>
+              </div>
+              <footer
+                className="card-footer"
+              >
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-exclamation"
+                  />
+                   
+                  132
+                </div>
+                <div
+                  className="card-footer-item"
+                >
+                  <i
+                    className="fas fa-code-branch"
+                  />
+                   
+                  466
+                </div>
+              </footer>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
