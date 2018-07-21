@@ -53,7 +53,7 @@ const styles = {
   },
   gridItem: {
     flex: '0 0 auto',
-    maxWidth: 254,
+    maxWidth: 300,
     margin: 10,
   },
 };

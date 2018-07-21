@@ -2,7 +2,8 @@
 
 const initialState = {
   repos: {
-    data: [], // repos
+    data: [],
+    // data: repos,
     state: {
       loading: false,
       error: false,

@@ -45,10 +45,10 @@ export default class Card extends React.PureComponent {
           </div>
           <footer className="card-footer">
             <div className="card-footer-item">
-              <i className="fas fa-exclamation"></i> {open_issues}
+              <i className="fas fa-exclamation"></i>&nbsp;{open_issues}
             </div>
             <div className="card-footer-item">
-              <i className="fas fa-code-branch"></i> {forks}
+              <i className="fas fa-code-branch"></i>&nbsp;{forks}
             </div>
           </footer>
         </div>
